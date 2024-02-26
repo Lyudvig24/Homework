@@ -20,7 +20,3 @@ numArr = [
 
 for i in range(len(numArr)):
     print(findMinNum(numArr[i]))
-
-
-def hello():
-    print("hello")
