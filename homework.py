@@ -58,7 +58,7 @@
 # print(f"You earned {money} money!")
 
 
-str_by_tigran = 'Hello Lyuto'
+str_by_tigran = 'Hello Lyuto by Tigran' 
 # myls = [1,2,3,[4,5,6],7,8,9,[10,11,12],13,14]
 # myls2 = []
 # for sublist in myls:
@@ -663,15 +663,14 @@ str_by_tigran = 'Hello Lyuto'
 
 # Open a file in write mode ('w')
 
-with open('write.txt', 'w') as file:
-    file.write("Hello, world!\n")
+# with open('write.txt', 'w') as file:
+#     file.write("Hello, world!\n")
 
 
-def read_file(wikifile):
+# def read_file(wikifile):
     
-    return open(wikifile).read()
+#     return open(wikifile).read()
 
-    
 
 
 
