@@ -57,8 +57,6 @@
 
 # print(f"You earned {money} money!")
 
-
-str_by_tigran = 'Hello Lyuto by Tigran olalal' 
 # myls = [1,2,3,[4,5,6],7,8,9,[10,11,12],13,14]
 # myls2 = []
 # for sublist in myls:
@@ -92,8 +90,6 @@ str_by_tigran = 'Hello Lyuto by Tigran olalal'
 #         high = mid -1
 # if not flag:
 #     print("null")
-
-    
 
 # num = [1,2,3,4,5,6,10,16,17,18]
 # item = 3
@@ -210,21 +206,6 @@ str_by_tigran = 'Hello Lyuto by Tigran olalal'
 #         return n * factorial(n-1)
 # num = 3
 # print(num,factorial(num))
-
-
-# def bubble_sorting(strings):
-#     n = len(strings)
-#     for i in range(n):
-#         for j in range(0,n-i-1):
-#             if len(strings[j]) < len(strings[j+1]):
-#                 strings[j], strings[j+1] = strings[j+1], strings[j]
-
-
-# strings = ["banana","kiwi","orange","penaple","watermelon"]
-
-# bubble_sorting(strings)
-# for string in strings:
-#     print(string)
 
 # def bubble_sort(strings):
 #         n = len(strings)
@@ -375,7 +356,6 @@ str_by_tigran = 'Hello Lyuto by Tigran olalal'
 
 
 # print(usersAkaNames)
-
 
 
 # for i in diArr:
@@ -719,4 +699,4 @@ str_by_tigran = 'Hello Lyuto by Tigran olalal'
 # print(sent_count(cnt))
 
 
-
+print('code is merged')
