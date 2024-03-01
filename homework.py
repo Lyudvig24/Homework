@@ -58,7 +58,7 @@
 # print(f"You earned {money} money!")
 
 
-str_by_tigran = 'Hello Lyuto by Tigran' 
+str_by_tigran = 'Hello Lyuto by Tigran olalal' 
 # myls = [1,2,3,[4,5,6],7,8,9,[10,11,12],13,14]
 # myls2 = []
 # for sublist in myls:
